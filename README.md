@@ -20,3 +20,19 @@ A LinkedIn-inspired social networking web application built using HTML, CSS, Jav
 
 \- MySQL database integration
 
+
+
+\## Technologies Used
+
+
+
+\- HTML
+
+\- CSS
+
+\- JavaScript
+
+\- PHP
+
+\- MySQL
+
