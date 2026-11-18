@@ -1,6 +1,6 @@
 \# LinkedIn Clone
 
-A LinkedIn-inspired social networking web application built using HTML, CSS, JavaScript, PHP, and MySQL.
+A LinkedIn-inspired social networking web application built using HTML, CSS, JavaScript, PHP, and MySQL. 
 
 
 \## Features
