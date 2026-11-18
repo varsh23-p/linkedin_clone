@@ -19,8 +19,6 @@ A LinkedIn-inspired social networking web application built using HTML, CSS, Jav
 
 \## Technologies Used
 
-
-
 \- HTML
 
 \- CSS
